@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vectorAddC", "vectorAddC\vectorAddC.vcxproj", "{91F173C9-047E-44C2-B8BC-33DA95960356}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vectorAddOMPNaive", "vectorAddOMPNaive\vectorAddOMPNaive.vcxproj", "{FAC9893C-E260-42A8-A679-5FD314D4457F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vectorAddOMPFor", "vectorAddOMPFor\vectorAddOMPFor.vcxproj", "{94F192B8-67CF-4131-BB67-9A44B06475DB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vectorAddOMPBetter", "vectorAddOMPBetter\vectorAddOMPBetter.vcxproj", "{B4727746-3D1A-44C4-9FD1-39840E32CFF6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dotProductC", "dotProductC\dotProductC.vcxproj", "{D225B0C3-F75E-4180-918D-905B067D3FB7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dotProductCritical", "dotProductCritical\dotProductCritical.vcxproj", "{B0FF6624-9477-44ED-AC18-3EF111FA7824}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dotProductReduction", "dotProductReduction\dotProductReduction.vcxproj", "{0B03E603-BDDF-46B1-860A-4ADBB34D4F2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91F173C9-047E-44C2-B8BC-33DA95960356}.Debug|Win32.ActiveCfg = Debug|Win32
+		{91F173C9-047E-44C2-B8BC-33DA95960356}.Debug|Win32.Build.0 = Debug|Win32
+		{91F173C9-047E-44C2-B8BC-33DA95960356}.Release|Win32.ActiveCfg = Release|Win32
+		{91F173C9-047E-44C2-B8BC-33DA95960356}.Release|Win32.Build.0 = Release|Win32
+		{FAC9893C-E260-42A8-A679-5FD314D4457F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FAC9893C-E260-42A8-A679-5FD314D4457F}.Debug|Win32.Build.0 = Debug|Win32
+		{FAC9893C-E260-42A8-A679-5FD314D4457F}.Release|Win32.ActiveCfg = Release|Win32
+		{FAC9893C-E260-42A8-A679-5FD314D4457F}.Release|Win32.Build.0 = Release|Win32
+		{94F192B8-67CF-4131-BB67-9A44B06475DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{94F192B8-67CF-4131-BB67-9A44B06475DB}.Debug|Win32.Build.0 = Debug|Win32
+		{94F192B8-67CF-4131-BB67-9A44B06475DB}.Release|Win32.ActiveCfg = Release|Win32
+		{94F192B8-67CF-4131-BB67-9A44B06475DB}.Release|Win32.Build.0 = Release|Win32
+		{B4727746-3D1A-44C4-9FD1-39840E32CFF6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B4727746-3D1A-44C4-9FD1-39840E32CFF6}.Debug|Win32.Build.0 = Debug|Win32
+		{B4727746-3D1A-44C4-9FD1-39840E32CFF6}.Release|Win32.ActiveCfg = Release|Win32
+		{B4727746-3D1A-44C4-9FD1-39840E32CFF6}.Release|Win32.Build.0 = Release|Win32
+		{D225B0C3-F75E-4180-918D-905B067D3FB7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D225B0C3-F75E-4180-918D-905B067D3FB7}.Debug|Win32.Build.0 = Debug|Win32
+		{D225B0C3-F75E-4180-918D-905B067D3FB7}.Release|Win32.ActiveCfg = Release|Win32
+		{D225B0C3-F75E-4180-918D-905B067D3FB7}.Release|Win32.Build.0 = Release|Win32
+		{B0FF6624-9477-44ED-AC18-3EF111FA7824}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B0FF6624-9477-44ED-AC18-3EF111FA7824}.Debug|Win32.Build.0 = Debug|Win32
+		{B0FF6624-9477-44ED-AC18-3EF111FA7824}.Release|Win32.ActiveCfg = Release|Win32
+		{B0FF6624-9477-44ED-AC18-3EF111FA7824}.Release|Win32.Build.0 = Release|Win32
+		{0B03E603-BDDF-46B1-860A-4ADBB34D4F2B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0B03E603-BDDF-46B1-860A-4ADBB34D4F2B}.Debug|Win32.Build.0 = Debug|Win32
+		{0B03E603-BDDF-46B1-860A-4ADBB34D4F2B}.Release|Win32.ActiveCfg = Release|Win32
+		{0B03E603-BDDF-46B1-860A-4ADBB34D4F2B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
